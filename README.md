@@ -1,5 +1,5 @@
 
-# GoGinJSONResponse
+# GoWentGoneAPI
 
 This is a simple API built with the **Gin** framework and **GORM** for Go, which connects to an SQLite database to fetch and respond with JSON data.
 
@@ -15,8 +15,8 @@ This is a simple API built with the **Gin** framework and **GORM** for Go, which
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/tofu639/GoGinJSONResponse.git
-cd GoGinJSONResponse
+git clone https://github.com/tofu639/GoWentGoneAPI.git
+cd GoWentGoneAPI
 ```
 
 ### 2. Install dependencies
